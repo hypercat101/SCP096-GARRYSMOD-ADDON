@@ -12,7 +12,7 @@
 
 1. get the [scp096 model](https://steamcommunity.com/sharedfiles/filedetails/?id=1315125663)
 2. drop this in ur addons folder
-3. edit config if u want:
+3. edit config if you want:
 ```lua
 HYPERCAT_SCP096.Stats = {
     Health = 4000,
