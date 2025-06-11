@@ -29,12 +29,8 @@ HYPERCAT_SCP096.Stats = {
 ## credits
 
 - scp foundation for scp096
-<<<<<<< HEAD
 - workshop people for models
 - hypercat for coding/creating
-=======
-- workshop creators for models
-- hypercat for coding
 
 ## PREVIEW
 https://medal.tv/games/undefined/clips/kt9rNolI0-byHM9j-?invite=cr-MSw0U0YsMjA1MzAyMTM4
