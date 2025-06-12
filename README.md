@@ -1,9 +1,9 @@
-# SCP-096 Addon
+# SCP-096 Job Addon
 
 
 ## features
 
-- simple scp096 addon
+- simple scp096 Job Addon your able to just use the swep but suggested to keep the job
 - kill players who look at you
 - scream ability
 - whitelist system
