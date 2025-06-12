@@ -18,4 +18,4 @@ hook.Add("HUDPaint", "scp096", function()
             end
         end
     end
-end) 
+end)

@@ -109,11 +109,5 @@ end)
 
 if SERVER then
     hook.Add("PlayerInitialSpawn", "SCP096_WL_Notify", function(p)
-        if !IsValid(p) or !p:IsSuperAdmin() then return end
-        timer.Simple(5, function()
-            if IsValid(p) then
-                p:ChatPrint("type !scp096whitelist add/remove steamid")
-            end
-        end)
     end)
 end 

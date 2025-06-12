@@ -17,13 +17,6 @@ if SERVER then
     end
 
     function HYPERCAT_SCP096.NET.SendNotification(message, ply)
-        net.Start("HYPERCAT_SCP096_Notification")
-            net.WriteString(message)
-        if IsValid(ply) then
-            net.Send(ply)
-        else
-            net.Broadcast()
-        end
     end
 
     net.Receive("HYPERCAT_SCP096_AdminAction", function(len, ply)
